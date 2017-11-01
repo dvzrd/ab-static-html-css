@@ -1,0 +1,9 @@
+@keyframes bounce {
+    from {
+      transform: translateY(-0.25em);
+    }
+
+    to {
+      transform: translateY(0);
+    }
+}
